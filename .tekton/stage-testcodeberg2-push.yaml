@@ -28,7 +28,7 @@ spec:
     value: Dockerfile
   - name: path-context
     value: .
-    taskRunSpecs:
+  taskRunSpecs:
     - pipelineTaskName: build-container
       stepSpecs:
         - name: build
