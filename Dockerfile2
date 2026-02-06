@@ -1,4 +1,4 @@
-FROM quay.io/redhat-user-workloads-stage/mbasti-tenant/mbasti/stage-testcomp2:5a48b758dfe55aaef09b39a0f9bfead96520924b@sha256:fb6887dce2674ff05aeabdb337a6cd353e58afacbd395d10e60aa62263f34669
+FROM quay.io/mbasti-test-org/mbasti-tenant/mbasti/stage-testcomp2@sha256:f796fc7062421bf8e92f6ad5463929e3ed74d5ae1f644e0d5ca3ef28805647cf
 
 RUN echo "component2"
 
