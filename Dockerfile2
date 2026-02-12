@@ -1,4 +1,4 @@
-FROM quay.io/redhat-user-workloads-stage/mbasti-tenant/nudging-main@sha256:45205a0da9ef046b39f5b329f48fcda5778f2a02884c4cfab740810041b9c8eb
+FROM quay.io/redhat-user-workloads-stage/mbasti-tenant/nudging-main@sha256:c079972c0e2bb37c95164713726fef755a83419e27ca620073ddab1ad58ad70b
 
 RUN echo "component2"
 
