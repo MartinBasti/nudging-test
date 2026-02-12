@@ -221,7 +221,7 @@ spec:
         - name: name
           value: buildah-oci-ta
         - name: bundle
-          value: quay.io/konflux-ci/pull-request-builds:buildah-oci-ta-0.8@sha256:60e8a2dc74de37ed4cca916b6082c4ade25b8ddef72a6edd5c6fa9bb6ca7d376
+          value: quay.io/konflux-ci/pull-request-builds:buildah-oci-ta-0.8@sha256:1822682a4dc47aef1e2b6b2e14671e18df57b096b6681a3e23bcd160b0653866
         - name: kind
           value: task
         resolver: bundles
